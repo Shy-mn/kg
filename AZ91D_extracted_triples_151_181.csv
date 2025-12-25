@@ -1,0 +1,42 @@
+subject,predicate,object
+AZ91D magnesium alloy,exhibits,flow stress
+flow stress,affects,hot working performance
+AZ91D magnesium alloy,exhibits,flow instability
+flow instability,caused by,grain boundary cracking
+grain boundary cracking,isa,defects
+adiabatic shear,induces,grain boundary cracking
+necklace structure,associated with,shear band formation
+shear band formation,leads to,flow instability
+layered double hydroxides,isa,materials
+MAO coatings,isa,coating technology
+MAO coatings,applied to,magnesium alloys
+MAO/LDH composite coating,improves,corrosion resistance
+MAO/LDH composite coating,improves,protective performance
+AZ91 series magnesium alloys,isa,materials
+AZ91D magnesium alloy,exhibits,weldability issues
+welding of AZ91D magnesium alloy,limited by,wire fabrication difficulty
+hot working diagram,used to predict,formability
+hot working diagram,used in,manufacturing process
+fretting wear,isa,defects
+micro-arc oxidation film,isa,coating technology
+AZ91D magnesium alloy,exhibits,limited corrosion resistance
+AZ91D magnesium alloy,exhibits,weak plastic deformation ability
+magnesium alloys,improved by,alloying methods
+magnesium alloy structural components,produced by,casting processes
+magnesium alloys,pre-treated by,zinc-dipping
+magnesium alloys,pre-treated by,phosphating
+magnesium alloys,pre-treated by,chromate treatment
+vacuum die casting,isa,casting processes
+vacuum die casting,improves,casting quality
+AZ91D magnesium alloy microstructure,contains,alloying elements
+magnesium alloy hardness,increases with,rare earth addition
+AZ91D magnesium alloy,exhibits,mechanical properties
+AZ91D magnesium alloy,exhibits,corrosion behavior
+rare earth elements,improve,mechanical properties
+rare earth elements,improve,corrosion resistance
+hot tearing,isa,defects
+hot tearing,affected by,solidification behavior
+microstructure,affects,mechanical properties
+grain refinement,improves,mechanical properties
+grain refinement,improves,corrosion resistance
+AZ91D magnesium alloy,used in,structural components
