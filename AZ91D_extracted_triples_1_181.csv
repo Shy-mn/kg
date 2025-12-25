@@ -1,0 +1,219 @@
+subject,predicate,object
+magnesium alloys,isa,materials
+AZ91D magnesium alloy,isa,materials
+AZ91D magnesium alloy,contains,aluminum
+AZ91D magnesium alloy,contains,zinc
+AZ91D magnesium alloy,contains,manganese
+magnesium alloys,exhibit,limitations
+AZ91D magnesium alloy,exhibits,poor corrosion resistance
+AZ91D magnesium alloy,used in,automobile industry
+gravity casting,isa,casting processes
+AZ91D每xGd magnesium alloy,prepared by,gravity casting
+X-ray diffraction analysis,isa,testing method
+X-ray diffraction analysis,used to identify,beta-Mg17Al12 phase
+as-cast AZ91D magnesium alloy,contains,beta-Mg17Al12 phase
+as-cast AZ91D magnesium alloy,contains,eta-Al8Mn5 phase
+beta-Mg17Al12 phase,isa,microstructure
+eta-Al8Mn5 phase,isa,microstructure
+beta-Mg17Al12 phase,exhibits,morphology
+hot tearing,isa,defects
+cold cracking,isa,defects
+hot tearing,related to,solidification behavior
+cold cracking,occurs after,solidification behavior
+hot tearing,occurs during,solidification process
+liquid film theory,isa,solidification behavior
+interdendritic liquid film,affects,hot tearing
+insufficient liquid feeding,leads to,hot tearing
+mushy zone,isa,solidification behavior
+mushy zone,exhibits,permeability
+coherency point,isa,solidification behavior
+solid fraction,affects,hot tearing
+rigidity point,isa,solidification behavior
+hot tearing,occurs between,coherency point
+hot tearing,occurs between,rigidity point
+equiaxed grains,isa,microstructure
+fine equiaxed grains,reduce,hot tearing
+grain refinement,improves,feeding ability
+grain refinement,improves,stress accommodation
+grain refinement,reduces,porosity
+strain rate,isa,parameters
+strain rate,affects,hot tearing
+high strain rate,reduces,liquid feeding
+fracture stress,isa,product property
+fracture stress,affected by,strain rate
+accumulated strain,isa,parameters
+hot tearing,characterized by,interdendritic cracks
+interdendritic bridging,affects,hot tearing
+hot tearing,associated with,intergranular fracture
+hot tearing susceptibility,isa,defects
+solidification temperature range,affects,hot tearing
+alloying elements,affect,hot tearing
+eutectic formation,affects,hot tearing
+thermal gradient,affects,hot tearing
+AZ91D magnesium alloy,used in,lightweight structural components
+rare earth elements,affect,magnesium alloys
+rare earth elements,improve,corrosion resistance
+rare earth elements,improve,mechanical properties
+light rare earth elements,affect,corrosion resistance
+mixed rare earth system,isa,materials
+bottom gravity casting,isa,casting processes
+AZ91D magnesium alloy,contains,beta-Mg17Al12 phase
+AZ91D magnesium alloy,contains,eta-Al8Mn5 phase
+yttrium addition,alters,microstructure
+La Ce Y addition,modifies,microstructure
+Al2Y phase,isa,microstructure
+rare earth content,affects,grain refinement
+AZ91D magnesium alloy,exhibits,tensile strength
+AZ91D magnesium alloy,exhibits,elongation
+corrosion resistance,isa,product property
+AZ91D magnesium alloy,evaluated by,electrochemical testing
+mixed La Ce Y elements,improve,corrosion resistance
+AZ91D magnesium alloy,isa,materials
+AZ91D magnesium alloy,used in,automotive components
+conventional magnesium alloys,exhibit,mechanical limitations
+rare earth addition,improves,magnesium alloys
+La每Ce mischmetal,isa,materials
+La每Ce mischmetal,selected for,alloy modification
+electromagnetic stirring melting furnace,isa,equipment
+as-cast AZ91D magnesium alloy,contains,beta-Mg17Al12 phase
+as-cast AZ91D magnesium alloy,contains,eta-Al8Mn5 phase
+La每Ce content,increases,corrosion resistance
+mixed rare earth elements,form,Al2Y phase
+Al2Y phase,isa,microstructure
+magnesium alloys,used in,lightweight structures
+wire arc additive manufacturing,isa,casting processes
+wire arc additive manufacturing,used in,aerospace applications
+GTA-WAAM,isa,casting processes
+AZ91D magnesium alloy,processed by,GTA-WAAM
+AZ91D alloy microstructure,dominated by,equiaxed grains
+equiaxed grains,isa,microstructure
+coarse grain size,affects,mechanical properties
+as-deposited AZ91D magnesium alloy,contains,alpha-Mg matrix
+as-deposited AZ91D magnesium alloy,contains,beta-Mg17Al12 phase
+as-deposited AZ91D magnesium alloy,contains,eta-Al8Mn5 phase
+hardness,isa,product property
+AZ91D magnesium alloy,exhibits,isotropic tensile properties
+ductile fracture,isa,defects
+carbon fiber reinforced magnesium matrix composites,isa,materials
+short carbon fiber,isa,materials
+carbon fiber reinforced magnesium matrix composites,reinforced by,short carbon fiber
+liquid-solid extrusion,isa,casting processes
+vacuum pressure infiltration,isa,casting processes
+carbon fiber reinforced magnesium matrix composite,exhibits,high fiber volume fraction
+carbon fiber reinforced magnesium matrix composite,exhibits,high ductility
+carbon fiber reinforced magnesium matrix composite,exhibits,isotropic compressive properties
+as-cast condition,isa,heat treatment
+solid-solution condition,isa,heat treatment
+extruded condition,isa,casting processes
+hot extrusion process,isa,casting processes
+AZ91D magnesium alloy,processed by,hot extrusion process
+grain refinement,improves,corrosion resistance
+grain refinement,improves,mechanical properties
+semi-solid AZ91D magnesium alloy,processed by,injection molding
+injection molding,isa,casting processes
+AZ91D magnesium alloy,exhibits,mechanical properties
+die casting,isa,casting processes
+die casting,produces,casting defects
+porosity,isa,defects
+shrinkage defects,isa,defects
+graphene nanoplatelets,isa,materials
+graphene nanoplatelets,used as,reinforcement material
+graphene nanoplatelets,refine,grains
+graphene nanoplatelets,strengthen,AZ91D magnesium alloy
+AZ91D magnesium alloy,susceptible to,hot tearing
+dendritic solidification,isa,solidification behavior
+GTA-WAAM,isa,casting processes
+AZ91D magnesium alloy,processed by,GTA-WAAM
+mixed rare earth elements,refine,grain size
+rare earth elements,improve,magnesium alloys
+rare earth elements,improve,corrosion resistance
+beta-Mg17Al12 phase,exhibits,morphology
+graphene nanoplatelets,used as,reinforcement material
+electromagnetic stirring melting furnace,isa,equipment
+AZ91D magnesium alloy,exhibits,tensile strength
+AZ91D magnesium alloy,exhibits,elongation
+AZ91D magnesium alloy,exhibits,flow stress
+flow stress,affects,hot working performance
+AZ91D magnesium alloy,exhibits,flow instability
+flow instability,caused by,grain boundary cracking
+grain boundary cracking,isa,defects
+adiabatic shear,induces,grain boundary cracking
+necklace structure,associated with,shear band formation
+shear band formation,leads to,flow instability
+layered double hydroxides,isa,materials
+MAO coatings,isa,coating technology
+MAO coatings,applied to,magnesium alloys
+MAO/LDH composite coating,improves,corrosion resistance
+MAO/LDH composite coating,improves,protective performance
+AZ91 series magnesium alloys,isa,materials
+AZ91D magnesium alloy,exhibits,weldability issues
+welding of AZ91D magnesium alloy,limited by,wire fabrication difficulty
+hot working diagram,used to predict,formability
+hot working diagram,used in,manufacturing process
+fretting wear,isa,defects
+micro-arc oxidation film,isa,coating technology
+AZ91D magnesium alloy,exhibits,limited corrosion resistance
+AZ91D magnesium alloy,exhibits,weak plastic deformation ability
+magnesium alloys,improved by,alloying methods
+magnesium alloy structural components,produced by,casting processes
+magnesium alloys,pre-treated by,zinc-dipping
+magnesium alloys,pre-treated by,phosphating
+magnesium alloys,pre-treated by,chromate treatment
+vacuum die casting,isa,casting processes
+vacuum die casting,improves,casting quality
+AZ91D magnesium alloy microstructure,contains,alloying elements
+magnesium alloy hardness,increases with,rare earth addition
+AZ91D magnesium alloy,exhibits,mechanical properties
+AZ91D magnesium alloy,exhibits,corrosion behavior
+rare earth elements,improve,mechanical properties
+rare earth elements,improve,corrosion resistance
+hot tearing,isa,defects
+hot tearing,affected by,solidification behavior
+microstructure,affects,mechanical properties
+grain refinement,improves,mechanical properties
+grain refinement,improves,corrosion resistance
+AZ91D magnesium alloy,used in,structural components
+AZ91D magnesium alloy,exhibits,tensile strength
+AZ91D magnesium alloy,exhibits,elongation
+ductile fracture,isa,defects
+magnesium alloys,exhibit,mechanical limitations
+hot tearing,associated with,intergranular fracture
+AZ91D magnesium alloy,contains,aluminum
+AZ91D magnesium alloy,contains,zinc
+AZ91D magnesium alloy,contains,manganese
+lanthanum addition,improves,mechanical properties
+cerium addition,improves,corrosion resistance
+mushy zone,exhibits,permeability
+AZ91D magnesium alloy,exhibits,application limitations
+beta-Mg17Al12 phase,exhibits,morphology
+corrosion resistance,isa,product property
+AZ91D magnesium alloy,evaluated by,electrochemical testing
+thermal gradient,affects,hot tearing
+AZ91D magnesium alloy,susceptible to,hot tearing
+fracture stress,affected by,strain rate
+magnesium alloys,used in,lightweight structural parts
+AZ91D magnesium alloy,isa,materials
+hot tearing,occurs during,dendritic solidification
+hot tearing,occurs between,coherency point
+wire arc additive manufacturing,isa,casting processes
+AZ91D magnesium alloy,exhibits,application limitations
+conventional magnesium alloys,exhibit,mechanical limitations
+light rare earth elements,improve,corrosion resistance
+light rare earth elements,improve,mechanical properties
+strain rate,affects,hot tearing
+hot tearing,characterized by,interdendritic cracks
+hot tearing,isa,defects
+hot tearing,associated with,intergranular fracture
+intergranular fracture,isa,defects
+beta-Mg17Al12 phase,isa,microstructure
+AZ91D magnesium alloy,exhibits,poor corrosion resistance
+rare earth elements,improve,corrosion resistance
+rare earth elements,improve,mechanical properties
+solidification behavior,affects,hot tearing
+AZ91D magnesium alloy,used in,automotive components
+magnesium alloys,exhibit,application limitations
+corrosion resistance,affects,application performance
+rare earth modification,improves,corrosion resistance
+rare earth modification,improves,mechanical properties
+hot tearing,limits,casting quality
+microstructure,affects,mechanical properties
